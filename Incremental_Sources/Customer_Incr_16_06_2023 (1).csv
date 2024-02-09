@@ -1,0 +1,6 @@
+﻿Cust_id,Cust_name,Cust_address,Cust_bn_cd,Cust_SSN,Cust_cvrg_EFFT_date,Cust_cvrg_term_date,Cust_Email,Cust_PH_NUM,Action_Indicator
+1008,john,Hyderabad,DNT,146712,2019-10-06,2014-10-06,john19@gmail.com,9622168833,U
+1013,Sham,Delhi,DNT,123566,2020-04-12,2022-10-12,Sham112@gmail.com,9550001233,I
+1014,kiran,Hyderabad,VSN,125362,2009-12-31,9999-12-31,kirankumar@gmail.com,8712349000,I
+1015,devi,banglore,MED,178923,2001-12-12,2010-12-06,devi114@gmail.com,7008453782,I
+1016,hari,chennai,DNT,125678,2022-05-13,2025-12-09,hari444@gmail.com,9050342897,I

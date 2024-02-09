@@ -1,0 +1,5 @@
+﻿Cust_id,Cust_name,Cust_address,Cust_bn_cd,Cust_SSN,Cust_cvrg_EFFT_date,Cust_cvrg_term_date,Cust_Email,Cust_PH_NUM,Action_Indicator
+1017,Anoop,Noida,DNT,157858,2002-06-01,2004-07-01,anoop1@gmai.com,7890678906,U
+1020,Ruhi,Trivandrum,GYN,145678,2001-08-12,2002-09-12,ruhi7@gmail.com,8765439089,I
+1021,Abhir,Haryana,DRM,125670,2007-09-07,2008-10-07,abhir4@gmail.com,7905468123,I
+1001,chandu,Hyderabad,VSN,134567,2019-01-12,2024-12-12,chandu@gmail.com,9876543211,D

@@ -1,0 +1,11 @@
+﻿Cust_id,Cust_name,Cust_address,Cust_bn_cd,Cust_SSN,Cust_cvrg_EFFT_date,Cust_cvrg_term_date,Cust_Email,Cust_PH_NUM,Action_Indicator
+1001,chandu,Hyderabad,VSN,134567,2019-12-01,2024-12-12,chandu@gmail.com,9876543211,I
+1002,bhargav,noida,DNT,182707,2018-06-15,2023-06-15,bhargav23@gmail.com,8967543210,I
+1003,pranathi,Hyderabad,MED,152951,2018-07-22,2023-07-22,pranathi31@gmail.com,9012345678,I
+1004,jack,mumbai,VSN,188277,2022-04-15,2027-04-15,jack@gmail.com,9234567810,I
+1005,moni,chennai,PDP,146771,2018-06-02,2023-06-02,moni@gmail.com,8901234567,I
+1006,ram,chennai,VSN,160217,2022-07-10,2027-07-10,ram15@gmail.com,7890123456,I
+1007,devi,gujarat,MED,159559,2022-10-03,2027-10-03,devi@gmail.com,7123456890,I
+1008,john,Hyderabad,DNT,146712,2019-10-06,2014-10-06,john19@gmail.com,9182736450,I
+1009,roshan,Noida,PDP,186084,2020-06-15,2025-06-15,roshan22@gmail.com,4638675345,D
+1010,shaurya,mumbai,VSN,171213,2021-07-22,2026-07-22,shaurya@gmail.com,8971258007,I

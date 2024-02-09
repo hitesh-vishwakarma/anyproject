@@ -1,0 +1,16 @@
+﻿Cust_id,Cust_name,Cust_address,Cust_bn_cd,Cust_SSN,Cust_cvrg_EFFT_date,Cust_cvrg_term_date,Cust_Email,Cust_PH_NUM
+1001,chandu,Hyderabad,VSN,134567,2019-12-01,2024-12-12,chandu@gmail.com,9876543211
+1002,bhargav,Kerla,DNT,182707,2018-06-15,2023-06-15,bhargav23@gmail.com,8967543210
+1004,jack,mumbai,VSN,188277,2022-04-15,2027-04-15,jack@gmail.com,9234567810
+1005,moni,chennai,PDP,146771,2018-06-02,2023-06-02,moni@gmail.com,8901234567
+1006,ram,Hyderabad,VSN,160217,2022-07-10,2027-07-10,ram15@gmail.com,7890123456
+1007,devi,gujarat,MED,159559,2022-10-03,2027-10-03,devi@gmail.com,7123456890
+1008,john,Hyderabad,DNT,146712,2019-10-06,2014-10-06,john19@gmail.com,9622168833
+1009,roshan,Noida,PDP,186084,2020-06-15,2025-06-15,roshan22@gmail.com,4638675345
+1010,shaurya,mumbai,VSN,171213,2021-07-22,2026-07-22,shaurya@gmail.com,8971258007
+1011,john,Hyderabad,DNT,145782,2022-04-15,2027-04-15,john@gmail.com,7977019162
+1012,keerthi,chennai,VSN,186602,2018-06-02,2023-06-02,keerthi@gmail.com,7443696455
+1013,Sham,Delhi,DNT,123566,2020-04-12,2022-10-12,Sham112@gmail.com,9550001233
+1014,kiran,Hyderabad,VSN,125362,2009-12-31,9999-12-31,kirankumar@gmail.com,8712349000
+1015,devi,banglore,MED,178923,2001-12-12,2010-12-06,devi114@gmail.com,7008453782
+1016,hari,chennai,DNT,125678,2022-05-13,2025-12-09,hari444@gmail.com,9050342897

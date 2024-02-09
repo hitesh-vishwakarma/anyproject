@@ -1,0 +1,6 @@
+﻿Cust_id,Cust_name,Cust_address,Cust_bn_cd,Cust_SSN,Cust_cvrg_EFFT_date,Cust_cvrg_term_date,Cust_Email,Cust_PH_NUM,Action_Indicator
+1002,bhargav,Kerala,DNT,182707,2018-06-15,2023-06-15,bhargav23@gmail.com,8967543210,U
+1006,ram,Hyderabad,VSN,160217,2022-07-10,2027-07-10,ram15@gmail.com,7890123456,U
+1011,john,Hyderabad,PDP,145782,2022-04-15,2027-04-15,john@gmail.com,7977019162,I
+1012,keerthi,chennai,VSN,186602,2018-06-02,2023-06-02,keerthi@gmail.com,7443696455,I
+1003,pranathi,Hyderabad,MED,152951,2018-07-22,2023-07-22,pranathi31@gmail.com,9012345678,D
